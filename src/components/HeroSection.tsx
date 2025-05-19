@@ -55,8 +55,8 @@ const HeroSection = () => {
           <div className="absolute -bottom-12 -left-12 w-64 h-64 bg-portfolio-accent/20 rounded-full blur-3xl"></div>
           <div className="relative border-8 border-white shadow-xl rounded-2xl overflow-hidden z-10">
             <img 
-              src="https://images.unsplash.com/photo-1487058792275-0ad4aaf24ca7?ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=80" 
-              alt="Web developer coding" 
+              src="/lovable-uploads/a7338359-af62-45ef-8546-1343fcb8adf2.png" 
+              alt="Web developer" 
               className="w-full h-auto object-cover" 
             />
           </div>
